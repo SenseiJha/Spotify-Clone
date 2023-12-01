@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Spotify-Clone/static/css/main.12e4a56e.css",
+    "main.js": "/Spotify-Clone/static/js/main.7ee0d6f1.js",
+    "static/media/background_photo_desktop.jpg": "/Spotify-Clone/static/media/background_photo_desktop.a0687f3fe6f1303a2d18.jpg",
+    "index.html": "/Spotify-Clone/index.html",
+    "main.12e4a56e.css.map": "/Spotify-Clone/static/css/main.12e4a56e.css.map",
+    "main.7ee0d6f1.js.map": "/Spotify-Clone/static/js/main.7ee0d6f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12e4a56e.css",
+    "static/js/main.7ee0d6f1.js"
+  ]
+}
